@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			rel="icon"
+			type="image/svg+xml"
+			href="/public/noun-convert-video-4953800.svg"
+		/>
+		<link rel="stylesheet" href="/src/style.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Unit Converter</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="input-container">
+				<h2 class="title">Metric/Imperial Unit Conversion</h2>
+				<input type="text" />
+				<button id="converter-el">Convert</button>
+			</div>
+			<div class="conversion-container">
+				<div class="output-box" id="length">
+					<h3 class="unit-title" id="unit-title-length">Length (Meter/Feet)</h3>
+					<p class="unit-p" id="unit-p-length"></p>
+				</div>
+				<div class="output-box" id="volume">
+					<h3 class="unit-title" id="unit-title-volume">Volume (Liters/Gallons)</h3>
+					<p class="unit-p" id="unit-p-volume"></p>
+				</div>
+				<div class="output-box" id="Mass">
+					<h3 class="unit-title" id="unit-title-mass">Mass (Kilograms/Pounds)</h3>
+					<p class="unit-p" id="unit-p-mass"></p>
+				</div>
+			</div>
+		</div>
+		<script type="module" src="/src/index.js"></script>
+	</body>
+</html>
