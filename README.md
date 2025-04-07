@@ -46,7 +46,7 @@ Navigate into the project directory:
 
 ```cd unitConverter```
 
-### Install the dependencies:
+### Install the dependencies:
 
     bash
     npm install
