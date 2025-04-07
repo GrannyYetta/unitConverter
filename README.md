@@ -38,7 +38,7 @@ Ensure you have the following installed:
 
 ### Installation
 
-    Clone this repository to your local machine:
+ Clone this repository to your local machine:
 
 ```git clone https://github.com/GrannyYetta/unitConverter.git```
 
