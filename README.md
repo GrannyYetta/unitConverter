@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Unit Converter repository provides a simple and efficient tool to convert between various units of measurement. It is designed to help users perform quick and accurate conversions for everyday use or specialized tasks.
+The Unit Converter repository provides a simple and efficient tool to convert between various units of measurement. It is designed to help users perform quick and accurate conversions for everyday use or specialized tasks. This project is part of the Solo Project section of the Basic JavaScript on Scrimba.
 
 ## Features
 
- Multiple Unit Categories: Convert units across different categories, such as length, weight, temperature, and volume.
+ Multiple Unit Categories: Convert units across different categories, such as length, weight, and volume.
 
  Real-Time Conversion: Input a value and instantly see the converted result.
 
