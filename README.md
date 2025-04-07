@@ -2,9 +2,16 @@
 
 This project is deployed at this [link](https://beckasunitconverter.netlify.app/).
 
-## Overview
+## Summary
 
 The Unit Converter repository provides a simple and efficient tool to convert between various units of measurement. It is designed to help users perform quick and accurate conversions for everyday use or specialized tasks. This project is part of the Solo Project section of the Basic JavaScript on Scrimba.
+
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
@@ -19,7 +26,9 @@ The Unit Converter repository provides a simple and efficient tool to convert be
 ## Getting Started
 
 Follow these steps to set up and use the repository locally:
-Prerequisites
+
+
+### Prerequisites
 
 Ensure you have the following installed:
 
@@ -27,7 +36,7 @@ Ensure you have the following installed:
 
     npm (comes with Node.js)
 
-# Installation
+### Installation
 
     Clone this repository to your local machine:
 
@@ -37,12 +46,12 @@ Navigate into the project directory:
 
 ```cd unitConverter```
 
-# Install the dependencies:
+### Install the dependencies:
 
     bash
     npm install
 
-# Running the App
+### Running the App
 
 Start the development server:
 
