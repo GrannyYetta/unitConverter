@@ -69,6 +69,6 @@ Future improvements may include:
 
 - Implementing a history tracker for previous conversions.
 
-## Author
+# Author
 
 Created by Rebeca Taboada.
